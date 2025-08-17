@@ -1,0 +1,8 @@
+//
+// Created by MaxV on 17.08.2025.
+//
+
+#ifndef RIGIDROTATOR_OPERATOR_H
+#define RIGIDROTATOR_OPERATOR_H
+
+#endif //RIGIDROTATOR_OPERATOR_H
